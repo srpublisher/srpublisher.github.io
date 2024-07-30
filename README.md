@@ -1,1 +1,1 @@
-# srpublisher.com
+# srpublisher.github.io
